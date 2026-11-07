@@ -3,7 +3,7 @@
 Content rules for any Claude session working on hapaedit.com. The working desk (backlog, plan, scratch notes) is the private Claude Doc "The Hapa Edit: Journal Desk".
 
 ## Public content
-- The site is public. Never mention employer, personal finance, or benefits details in anything public.
+- The site is public. Never mention employer, personal finance, or benefits details in anything public. One approved exception: "AI content at Google" (no more detail).
 - Voice: first person, open on the point, one test the reader can do today, real prices and dates, expensive by restraint. No hype words (harness, unlock, seamless, revolution, synergy).
 - Never invent memories, family details or prices. Leave `[Alison: …]` slots instead.
 - Real photos of Alison only. Product images come only from the brand or its affiliate program, never scraped.
