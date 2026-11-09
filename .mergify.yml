@@ -1,0 +1,15 @@
+merge_queue:
+  skip_intermediate_results: false
+  reset_on_external_merge: always
+scopes:
+  source:
+    files:
+      web:
+        include:
+          - web/**
+      api:
+        include:
+          - api/**
+      docs:
+        include:
+          - docs/**
